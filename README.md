@@ -8,16 +8,7 @@ To start playing:
     - Clone or download the repository **'Fruit-Ninja'** by clicking on the Clone or Download button
     - Open the 'index.html' file and start playing!
     
-    **or**
-
-  - Visit the link: [https://verma-anushka.github.io/Fruit-Ninja/](https://verma-anushka.github.io/Fruit-Ninja/)
-
-    **or**
   
-  - You can also find **Fruit Ninja** and many more cool games at the link: 
-    [https://verma-anushka.github.io/Gaming-Zone/](https://verma-anushka.github.io/Gaming-Zone/)
-
-
 ## HOW TO PLAY? :interrobang:
 **RULE 1:** Slice fruit :kiwi_fruit: <br/>
 **RULE 2:** Don't slice bombs :bomb: <br/>
